@@ -9,7 +9,7 @@ import { Navigation } from './components/Navigation';
 import { SubjectsPage } from './components/SubjectsPage';
 import { NotesPage } from './components/NotesPage';
 
-const API_URL = 'http://127.0.0.1:8000';
+const API_URL = 'https://study-notes-kkjj.onrender.com';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState<'subjects' | 'notes'>('subjects');
