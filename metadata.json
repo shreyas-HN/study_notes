@@ -1,0 +1,6 @@
+{
+  "name": "Study Notes",
+  "description": "A clean, modern web application for managing study subjects and notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
